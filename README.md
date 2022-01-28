@@ -1,6 +1,6 @@
 # Company-Bankrupcy-Prediction-Kaggle
 <br>
-## Management/Research Question
+<h3>Management/Research Question</h3>
 <br>
 <strong>In layman’s terms, what is the management/research question of interest, and why would anyone care?  
 Requirements</strong>
